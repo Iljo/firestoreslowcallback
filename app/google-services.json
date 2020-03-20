@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "612244434935",
+    "firebase_url": "https://firestoreslowcallback.firebaseio.com",
+    "project_id": "firestoreslowcallback",
+    "storage_bucket": "firestoreslowcallback.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612244434935:android:16fe0b0891cb874f3808f2",
+        "android_client_info": {
+          "package_name": "com.example.firestoreslowcallback"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612244434935-jrt3p4ndhokcv2m4i2bvvgfagve6943m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD33AEOq1F-bE9N_JygjL789QQ_TFYeGyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612244434935-jrt3p4ndhokcv2m4i2bvvgfagve6943m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
