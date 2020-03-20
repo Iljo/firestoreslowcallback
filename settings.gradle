@@ -1,0 +1,2 @@
+rootProject.name='FirestoreSlowCallback'
+include ':app'
